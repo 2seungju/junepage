@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import media from '../utils/media';
-import { black, white2, white } from '../utils/colors';
+import { black, white } from '../utils/colors';
 
 import peopet from '../images/peopet.png';
 
